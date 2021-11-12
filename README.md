@@ -1,4 +1,6 @@
 # TC-1033 Proyecto avances
+Alain Vicencio A01620758
+
 Aquí es donde se estarán subiendo los avances de los avances del proyecto final de la materia conforme pasen las semanas y veamos los respectivos temas. 
 
 #Contexto
